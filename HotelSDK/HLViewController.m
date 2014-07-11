@@ -77,6 +77,7 @@
 #pragma mark tool method
 - (void)displayWebImage {
     NSString *imageURL = @"http://www.wmpic.me/wp-content/uploads/2013/04/20130425142019292.jpg";
+//    jldjflsjflkdsjflksdjlfkjjlkjih
     [self.imageView requestImageWithURL:[NSURL URLWithString:imageURL]];
 }
 
