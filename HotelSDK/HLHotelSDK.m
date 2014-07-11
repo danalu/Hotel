@@ -23,6 +23,8 @@
     
     UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:@"My lib" message:newworkState delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];
     [alertView show];
+    
+    //Parent
 }
 
 - (UIViewController*)getSDKViewController {
