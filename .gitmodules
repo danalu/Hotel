@@ -1,0 +1,3 @@
+[submodule "HotelSDK"]
+	path = HotelSDK
+	url = https://github.com/danalu/Hotel.git
