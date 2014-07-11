@@ -23,6 +23,7 @@
     HLHotelSDK *hotelSDK = [[HLHotelSDK alloc] init];
     [hotelSDK testSDKNetworkReachable];
 
+    //A
 }
 
 
